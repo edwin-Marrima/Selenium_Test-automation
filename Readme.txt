@@ -1,0 +1,1 @@
+This small algorithm has the ability to automatically register on facebook, in order to use the code  is necessary to download chrome / firefox driver
